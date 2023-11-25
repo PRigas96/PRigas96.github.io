@@ -7,14 +7,4 @@ theme: jekyll-theme-minimal
 # Show
 show_downloads: false
 # include navbar
-navbar:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Contact"
-    url: "/contact/"
+{% include navbar.html %} # path is relative to the _includes folder

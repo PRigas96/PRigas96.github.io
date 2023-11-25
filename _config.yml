@@ -6,3 +6,15 @@ logo: "/assets/images/logo.png"
 theme: jekyll-theme-minimal
 # Show
 show_downloads: false
+# include navbar
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contact"
+    url: "/contact/"

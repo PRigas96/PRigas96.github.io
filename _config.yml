@@ -1,8 +1,6 @@
 # Title
 title: "Panagiotis Rigas"
-# Image
-image: "/assets/images/avatar.jpg"
-# Description
-description: "Panagiotis Rigas"
+# Logo
+logo: "/assets/images/avatar.jpg"
 # Theme
 theme: jekyll-theme-minimal

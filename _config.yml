@@ -4,3 +4,5 @@ title: "Panagiotis Rigas"
 logo: "/assets/images/logo.png"
 # Theme
 theme: jekyll-theme-minimal
+# Show
+show_downloads: false

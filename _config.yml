@@ -6,5 +6,3 @@ logo: "/assets/images/logo.png"
 theme: jekyll-theme-minimal
 # Show
 show_downloads: false
-# include navbar
-{% include navbar.html %} # path is relative to the _includes folder
